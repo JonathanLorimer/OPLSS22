@@ -1,0 +1,5 @@
+name: type-theory
+include:
+  src
+depend:
+  standard-library
